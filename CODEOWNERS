@@ -1,4 +1,3 @@
 # protecting prod environments
-environment/prod @mulhotavares
-environment/staging @mulhotavares
-myapp/environment/prod @mulhotavares
+environment/prod/ @mulhotavares
+environment/staging/ @mulhotavares
