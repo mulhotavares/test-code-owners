@@ -1,0 +1,3 @@
+# protecting prod environments
+environments/prod @mulhotavares
+environments/staging @mulhotavares
